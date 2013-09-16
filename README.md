@@ -1,4 +1,4 @@
 B-plus-tree
 ===========
 
-A B+ tree implementation optimized for disk IO.
+A B+ tree implementation optimized for random disk IO.
